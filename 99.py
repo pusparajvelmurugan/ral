@@ -1,0 +1,5 @@
+a=input("Enter number")
+b=input("enter number")
+c=input("enter number")
+num=(int(a)*int(b)%int(c))
+print(num)
